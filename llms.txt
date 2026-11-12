@@ -1,0 +1,31 @@
+# levelUp Academy
+
+> levelUp Academy es el área de formación de levelUp. Ofrece cursos en vivo de Recruiting, Talent Acquisition e Inteligencia Artificial para reclutadores, líderes de HR y equipos de Latinoamérica. Los dicta Mariano Obligado, founder de levelUp y LinkedIn Top Voice. Idioma: español.
+
+Contacto: learning@hrlevel-up.com · https://www.hrlevel-up.com/
+
+## Cursos
+
+- [Recruiting Ops con IA](https://www.hrlevel-up.com/formacion/recruiting-ops-con-ia): curso en vivo, 4 clases de 2 horas y 8 agentes. De prompts aislados a un proceso de selección conectado y medible. Inscripción abierta.
+- [Recruiting Management](https://www.hrlevel-up.com/formacion/recruiting-management): programa ejecutivo para líderes de Recruiting y Talent Acquisition. 12 semanas, 50 horas online en vivo, 8 módulos. USD 600.
+- [AI Fluency for Leaders](https://www.hrlevel-up.com/formacion/ai-fluency-for-leaders): programa ejecutivo para directores, gerentes y líderes. 6 semanas, 24 horas, 6 módulos. Basado en el AI Fluency Framework (Dakan y Feller, en colaboración con Anthropic). Sin requisitos técnicos.
+- [Recruiting con GrokBot](https://www.hrlevel-up.com/formacion/recruiting-con-grokbot): el programa de Recruiting Ops con IA, con todos los agentes construidos en GrokBot. 4 clases, 8 agentes.
+- [Formación a equipos in company](https://www.hrlevel-up.com/formacion/formacion-in-company): los programas anteriores, adaptados al equipo, el proceso y las herramientas de cada empresa.
+
+## Recruiting Ops con IA (próximo curso)
+
+- Fechas: miércoles 25/11, 2/12, 9/12 y 16/12 de 2026.
+- Horario: 12 hs Argentina / 10 hs Colombia / 9 hs México. 2 horas por clase.
+- Para quién: reclutadores en empresa, managers de Talent y HR, consultores y freelancers de selección.
+- Qué se lleva cada participante: su proceso de selección mapeado y rediseñado, 8 agentes, su antes y después en números, certificado.
+- Clases: 1 Diagnóstico, 2 Rediseño, 3 Implementación, 4 Medición.
+- Agentes: Talent Mapping, Sourcing, CV Reviewer, AI Interviews (opciones), Reporte de Entrevista con tu marca, Presentación de candidato, Seguimiento y Feedback, Reporte de métricas.
+- Herramientas recomendadas: Claude o Grokbot. Funciona con cualquier ATS que se conecte por MCP.
+- Precio de lanzamiento hasta el viernes 20/11 a las 23:59: ARS 200.000 (Argentina, hasta 3 cuotas sin interés con MercadoPago) o USD 130 (otros países).
+- Precio regular después del 20/11: ARS 300.000 / USD 180.
+- Inscripción: https://forms.gle/7qqEhskegdzoB2xz6 · Pago desde Argentina: https://mpago.li/2jge467
+- Equipos de dos o más personas de la misma empresa: learning@hrlevel-up.com
+
+## Docente
+
+Mariano Obligado, founder de levelUp. Más de 15 años en Recruiting en Latinoamérica. Armó áreas de Talent desde cero en Flux IT, Truenorth y Mindtech. LinkedIn Top Voice. Escribe "Bitácora del Reclutador", newsletter con 9 mil suscriptores.
